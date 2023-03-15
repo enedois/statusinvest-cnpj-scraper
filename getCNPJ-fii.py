@@ -4,8 +4,8 @@ import lxml, lxml.html
 import os
 import datetime
 from bs4 import BeautifulSoup
-import pandas
-import mysql.connector
+##import pandas
+##import mysql.connector
 
 ##mydb = mysql.connector.connect(
 ##  host="localhost",
